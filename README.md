@@ -38,7 +38,7 @@ Lastly, based on information gathered from an article from Hola!, I was able to 
 
 ---
 # Data Cleaning
-[Data Cleaning Notebook](https://github.com/lmgaines30/kentucky-blue/blob/main/Storytelling%20Project/Olympics_data_cleaning.ipynb)
+[Data Cleaning Notebook](notebooks/Olympics_data_cleaning.ipynb)
 
 I could not locate any datasets that contained all of the Olympic results in the modern era from 1896 through the 2024 Summer Games.  Therefore, I had to use one data set that contained the history through 2020 and a separate dataset for the 2024 Summer games.  
 
@@ -54,7 +54,7 @@ If you would like to see a more detailed look into the data cleaning process, yo
 ---
 
 # Questions Asked:
-[EDA Notebook](https://github.com/lmgaines30/kentucky-blue/blob/main/Storytelling%20Project/Summer_olympics_visualizations.ipynb)
+[EDA Notebook](notebooks/Summer_olympics_visualizations.ipynb)
 
 ## Which countries win the most Gold medals?
 
